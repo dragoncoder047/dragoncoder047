@@ -11,6 +11,7 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 ## Important stuff I've done or am doing
 
 * [Phoo](https://github.com/phoo-lang/phoo) - a stack-based programming language. (Currently semi-broken; help would be appreciated if you know Javascript and/or Forth)
+* [Langton-Music](https://dragoncoder047.github.io/langton-music) simulator for musical Langton's Ant.
 * A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc)
 * Adding a whole bunch of [patches and modifications](https://github.com/dragoncoder047/ulisp-esp32) to David Johnson-Davies' **uLisp** interpreter for Arduinos (Dave Astels, if you're reading this, your help would be [much appreciated](https://github.com/technoblogy/ulisp-esp/issues/56#issuecomment-1221358270)!)
 
