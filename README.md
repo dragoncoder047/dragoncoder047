@@ -17,7 +17,6 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 | Phoo | [phoo-lang/*](https://github.com/phoo-lang) | a concatenative programming language for the Web. | Broken |
 | Langton-Music | [langton-music](https://dragoncoder047.github.io/langton-music) | simulator for musical Langton's Ant. | Complete |
 | Armdroid 1000 | [armdroid](https://dragoncoder047.github.io/armdroid) | A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc) | Working draft |
-| Yisp | [yisp](https://github.com/dragoncoder047/yisp) | A Lisp-ish scripting language interpreter for microcontrollers, adapted from David Johnson-Davies' [uLisp](http://www.ulisp.com). | Incomplete |
 | Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | Incomplete |
 
 <!-- END PROJECTS] -->
