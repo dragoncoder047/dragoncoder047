@@ -14,11 +14,20 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 
 | Project Name | Repo Link | Description | Status |
 |:------------:|:---------:|:------------|:------:|
-| Phoo | [phoo-lang/*](https://github.com/phoo-lang) | a concatenative programming language for the Web. | Broken |
-| Langton-Music | [langton-music](https://dragoncoder047.github.io/langton-music) | simulator for musical Langton's Ant. | Complete |
-| Armdroid 1000 | [armdroid](https://dragoncoder047.github.io/armdroid) | A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc) | Working draft |
-| Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | Incomplete |
+| Langton-Music | [langton-music](https://github.com/dragoncoder047/langton-music) | simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music). | Complete |
+| Armdroid 1000 | [armdroid](https://github.com/dragoncoder047/armdroid) | A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc) | Working draft |
+| TEHSSL | [tehssl](https://github.com/dragoncoder047/tehssl) | a tiny interpreted concatenative programming language for microcontrollers | In progress |
+| Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | In progress |
+| Phoo | [phoo-lang/\*](https://github.com/phoo-lang) | a concatenative programming language for the Web. | Broken |
 
 <!-- END PROJECTS] -->
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true) ![general stats](https://github-readme-stats.vercel.app/api?username=dragoncoder047&hide_title=true&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true">
+</picture>
