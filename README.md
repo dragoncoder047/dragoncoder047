@@ -8,7 +8,7 @@ I am a high school student so I will probably be busy with classes during the da
 
 I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**. Half of what I do here somehow manages to wind up there as well (mostly from my [ca-experiments](https://github.com/dragoncoder047/ca-experiments) repository).
 
-## Major project's I'm working on:
+## Major projects I'm working on:
 
 <!-- [BEGIN PROJECTS -->
 
