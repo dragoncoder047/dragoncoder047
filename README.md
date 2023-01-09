@@ -27,8 +27,6 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true">
 </picture>
 
-Disclaimer: contrary to what the above image says, I have never actually written any Forth. I *have* written some Phoo and TEHSSL (as well as the interpreters for those languages), which, being concatenative languages, I set Linguist to recognize them as Forth.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true">
