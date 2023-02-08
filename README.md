@@ -23,11 +23,11 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 <!-- END PROJECTS] -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark&hide=css,html,makefile,markdown">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&hide=css,html,makefile,markdown">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true&include_all_commits=true">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true&include_all_commits=true">
 </picture>
