@@ -14,10 +14,10 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 
 | Project Name | Repo Link | Description | Status |
 |:------------:|:---------:|:------------|:------:|
+| uLisp fork | [ulisp-esp32](https://github.com/dragoncoder047/ulisp-esp32) | My fork of [uLisp](http://ulisp.com/) with additional features | ??? |
 | Langton-Music | [langton-music](https://github.com/dragoncoder047/langton-music) | simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music). | Complete |
 | Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | Complete |
 | Armdroid 1000 | [armdroid](https://github.com/dragoncoder047/armdroid) | A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc) | Working draft |
-| LILduino | [lilduino](https://github.com/dragoncoder047/lilduino) | embedding the LIL programming language into an Arduino | Complete (still  a few lingering bugs) |
 | Phoo | [phoo-lang/\*](https://github.com/phoo-lang) | a concatenative programming language for the Web. | Complete (shell doesn't work) |
 
 <!-- END PROJECTS] -->
