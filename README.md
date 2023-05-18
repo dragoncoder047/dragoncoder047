@@ -14,6 +14,7 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 
 | Project Name | Repo Link | Description | Status |
 |:------------:|:---------:|:------------|:------:|
+| PICKLE and Tinobsy | [tinobsy](https://github.com/dragoncoder047/tinobsy) | A new idea for a programming language, and a type system to implement it. | In progress |
 | uLisp fork | [ulisp-esp32](https://github.com/dragoncoder047/ulisp-esp32) | My fork of [uLisp](http://ulisp.com/) with additional features | ??? |
 | Langton-Music | [langton-music](https://github.com/dragoncoder047/langton-music) | simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music). | Complete |
 | Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | Complete |
