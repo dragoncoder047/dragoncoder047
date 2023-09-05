@@ -28,6 +28,6 @@ I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) unde
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true&include_all_commits=true">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true&include_all_commits=true&hide_rank=true">
 </picture>
