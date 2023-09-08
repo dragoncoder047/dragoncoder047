@@ -1,14 +1,9 @@
-I mostly do Javascript and Python stuff.
-    
-I picked up C++ and C via the use of Arduinos.
-
-I have a [blog](https://dragoncoder047.github.io/blog/) that I occasionally write stuff on.
-
-I am a high school student so I will probably be busy with classes during the day. And homework in the evening. (You know, AP classes and stuff.)
-
-I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**. Half of what I do here somehow manages to wind up there as well (mostly from my [ca-experiments](https://github.com/dragoncoder047/ca-experiments) repository).
-
-## Major projects I'm working on:
+* I mostly use Javascript for "big" web apps and Python for tools.
+* I picked up C++ and C via the use of Arduinos and have been self-taught otherwise.
+* I enjoy functional, homoiconic, and object-oriented langauges (especially Scheme) but have not had much experience using Scheme or Lisp.
+* I have a [blog](https://dragoncoder047.github.io/blog/) that I occasionally write stuff on.
+* I am a high school student so I will probably be busy with classes during the day. And homework in the evening. (You know, AP classes and stuff.)
+* I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**. Half of what I do here somehow manages to wind up there as well (mostly from my [ca-experiments](https://github.com/dragoncoder047/ca-experiments) repository).
 
 <!-- [BEGIN PROJECTS -->
 
