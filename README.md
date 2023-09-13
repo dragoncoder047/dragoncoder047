@@ -18,11 +18,13 @@
 <!-- END PROJECTS] -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark&hide=css,html,makefile,markdown">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&hide=css,html,makefile,markdown">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark&hide=javascript,css,html,makefile,markdown">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&hide=javascript,css,html,makefile,markdown">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true&include_all_commits=true&hide_rank=true">
 </picture>
+
+*Note, I excluded Javascript from the above language stats because its verbosity (curly braces, JSDoc comments, etc.) compared to other language artificially inflates the amount of Javascript I seem to have written. Only about 60% of those lines are meaningful code.*
