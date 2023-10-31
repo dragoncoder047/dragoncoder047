@@ -5,18 +5,19 @@
 * I am a high school student so I will probably be busy with classes during the day. And homework in the evening. (You know, AP classes and stuff.)
 * I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**. Half of what I do here somehow manages to wind up there as well (mostly from my [ca-experiments](https://github.com/dragoncoder047/ca-experiments) repository).
 
-<!-- [BEGIN PROJECTS -->
+#### Some of my projects
 
-| Project Name | Repo Link | Description | Status |
-|:------------:|:---------:|:------------|:------:|
-| Parasite | [parasite](https://github.com/dragoncoder047/parasite) | A game that can't be beaten by the player: you have to teach the NPC's how to play it for you. | Engine&nbsp;(mostly)&nbsp;complete<br>Levels WIP<br>![](https://img.shields.io/github/last-commit/dragoncoder047/parasite) |
-| PICKLE and Tinobsy | [tinobsy](https://github.com/dragoncoder047/tinobsy)<br>[pickle](https://github.com/dragoncoder047/pickle) | A new idea for a programming language, and a type system to implement it. | In progress<br>![](https://img.shields.io/github/last-commit/dragoncoder047/tinobsy?label=tinobsy%20last%20commit)<br>![](https://img.shields.io/github/last-commit/dragoncoder047/pickle?label=pickle%20last%20commit) |
-| uLisp fork | [ulisp-esp32](https://github.com/dragoncoder047/ulisp-esp32) | My fork of [uLisp](http://ulisp.com/) with additional features | ![](https://img.shields.io/github/last-commit/dragoncoder047/ulisp-esp32) |
-| Langton-Music | [langton-music](https://github.com/dragoncoder047/langton-music) | simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music). | Complete ![](https://img.shields.io/github/last-commit/dragoncoder047/langton-music) ![](https://img.shields.io/github/last-commit/dragoncoder047/langton-music/v3-dev?label=v3-dev%20branch%20last%20commit) |
-| Schemascii | [schemascii](https://github.com/dragoncoder047/schemascii) | A Python program to convert ASCII art circuit diagrams into nice SVG schematics. | Complete<br>![](https://img.shields.io/github/last-commit/dragoncoder047/schemascii) ![](https://img.shields.io/github/release-date/dragoncoder047/schemascii?label=last%20release) ![](https://img.shields.io/github/commits-since/dragoncoder047/schemascii/latest) |
-| Armdroid 1000 | [armdroid](https://github.com/dragoncoder047/armdroid) | A website about the [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc) | Working draft<br>![](https://img.shields.io/github/last-commit/dragoncoder047/armdroid) |
+* [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
+* [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with additional features
+* [Langton-Music](https://github.com/dragoncoder047/langton-music) - A simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music).
+* [Armdroid 1000](https://github.com/dragoncoder047/armdroid) - A website about the old [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc)
 
-<!-- END PROJECTS] -->
+
+
+#### Noteworthy but incomplete/WIP stuff
+
+* [Parasite](https://github.com/dragoncoder047/parasite) - A game that can't be beaten by the player: you have to teach the NPC's how to play it for you.
+* [PICKLE](https://github.com/dragoncoder047/pickle) and [Tinobsy](https://github.com/dragoncoder047/tinobsy) - A new idea for a programming language, and a type system to implement it.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark&hide=javascript,css,html,makefile,markdown">
