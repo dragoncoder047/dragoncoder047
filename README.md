@@ -2,13 +2,13 @@
 * I picked up C++ and C via the use of Arduinos and have been self-taught otherwise.
 * I enjoy functional, homoiconic, and object-oriented langauges (especially Scheme) but have not had much experience using Scheme or Lisp. I'm trying to design one of my own but it's not going well.
 * I have a [blog](https://dragoncoder047.github.io/blog/) that I occasionally write stuff on. ![](https://img.shields.io/github/last-commit/dragoncoder047/blog)
-* I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**. Half of what I do here somehow manages to wind up there as well (mostly from my [ca-experiments](https://github.com/dragoncoder047/ca-experiments) repository).
+* I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**.
 * I have a [YouTube channel](https://youtube.com/@dragoncoder047?si=LeWERFFGmZtFv3U-) -- check that out when you get a chance.
 
 #### Some of my projects
 
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
-* [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with additional features.
+* [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with new, experimental features.
 * [Langton-Music](https://github.com/dragoncoder047/langton-music) - A simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music).
 * [Armdroid 1000](https://github.com/dragoncoder047/armdroid) - A website about the old [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc). 
 
