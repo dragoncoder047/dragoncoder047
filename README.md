@@ -1,7 +1,7 @@
 * I mostly use Javascript for web apps and Python for tools.
 * I picked up C++ and C via the use of Arduinos and have been self-taught otherwise.
-* I enjoy functional, homoiconic, and object-oriented langauges (especially Scheme) but have not had much experience using Scheme or Lisp. I'm trying to design one of my own but it's not going well.
-* I have a [blog](https://dragoncoder047.github.io/blog/) that I occasionally write stuff on. ![](https://img.shields.io/github/last-commit/dragoncoder047/blog)
+* I enjoy functional, homoiconic, and object-oriented langauges (especially Scheme) but have not had much experience using Scheme or Lisp. I'm trying to design one of my own but so far it's all just theoretical.
+* I have a [blog](https://dragoncoder047.github.io/blog/?utm_source=githubprofile) that I occasionally write stuff on. ![](https://img.shields.io/github/last-commit/dragoncoder047/blog)
 * I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**.
 * I have a [YouTube channel](https://youtube.com/@dragoncoder047?si=LeWERFFGmZtFv3U-) -- check that out when you get a chance.
 
@@ -9,8 +9,8 @@
 
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
 * [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with new, experimental features.
-* [Langton-Music](https://github.com/dragoncoder047/langton-music) - A simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music).
-* [Armdroid 1000](https://github.com/dragoncoder047/armdroid) - A website about the old [Armdroid 1000](https://dragoncoder047.github.io/armdroid) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc). 
+* [Langton-Music](https://github.com/dragoncoder047/langton-music) - A simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music?utm_source=githubprofile).
+* [Armdroid 1000](https://github.com/dragoncoder047/armdroid) - A website about the old [Armdroid 1000](https://dragoncoder047.github.io/armdroid?utm_source=githubprofile) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc). 
 
 #### Noteworthy but incomplete/WIP stuff
 
