@@ -8,6 +8,7 @@
 #### Some of my projects
 
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
+* [Cogni](https://github.com/dragoncoder047/cogni) - An interpreter for the [Cognate](https://cognate-language.github.io/) programming language that doesn't compile to C first.
 * [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with new, experimental features.
 * [Langton-Music](https://github.com/dragoncoder047/langton-music) - A simulator for [musical Langton's Ant](https://dragoncoder047.github.io/langton-music?utm_source=githubprofile).
 * [Armdroid 1000](https://github.com/dragoncoder047/armdroid) - A website about the old [Armdroid 1000](https://dragoncoder047.github.io/armdroid?utm_source=githubprofile) with a bunch of resources (manual, circuit diagram, photos, miscallaneous reverse-engineering, etc). 
