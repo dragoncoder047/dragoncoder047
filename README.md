@@ -7,6 +7,7 @@
 
 #### Some of my projects
 
+* [Lynx](https://github.com/dragoncoder047/lynx) - A browser-based reactive programming toolkit with Scheme-based syntax. [Web editor](https://dragoncoder047.github.io/lynx)
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
 * [Cogni](https://github.com/dragoncoder047/cogni) - An interpreter for the [Cognate](https://cognate-lang.github.io/) programming language that doesn't compile to C first.
 * [uLisp fork](https://github.com/dragoncoder047/ulisp-esp32) - My fork of [uLisp](http://ulisp.com/) with new, experimental features.
