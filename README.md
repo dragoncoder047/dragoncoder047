@@ -4,7 +4,7 @@
 * I have a [blog](https://dragoncoder047.github.io/blog/?utm_source=githubprofile) that I occasionally write stuff on. ![](https://img.shields.io/github/last-commit/dragoncoder047/blog)
 * I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**.
 * I have a [YouTube channel](https://youtube.com/@dragoncoder047?si=LeWERFFGmZtFv3U-) -- check that out when you get a chance.
-* **I'm currently working on a platformer game (not released yet), and as a result I have made dozens of commits to the [KAPLAY](https://v4000.kaplayjs.com/) game engine.** The blog series about the game starts [here](https://dragoncoder047.github.io/blog/2024/boy-have-i-been/).
+* **I'm currently working on a platformer game called Aelith (which is not released yet), and as a result I have made dozens of commits to the [KAPLAY](https://v4000.kaplayjs.com/) game engine.** The blog series about the game starts [here](https://dragoncoder047.github.io/blog/2024/boy-have-i-been/), and the source code repository is [here](https://github.com/dragoncoder047/aelith).
 
 #### Some of my projects
 
