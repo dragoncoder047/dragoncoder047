@@ -19,7 +19,7 @@
 
 * [Parasite](https://github.com/dragoncoder047/parasite) - A game that can't be beaten by the player: you have to teach the NPC's how to play it for you.
 * [PICKLE](https://github.com/dragoncoder047/pickle) and [Tinobsy](https://github.com/dragoncoder047/tinobsy) - A new idea for a programming language, and a type system to implement it.
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&theme=dark&hide=javascript,css,html,makefile,markdown">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoncoder047&langs_count=100&layout=compact&hide_title=true&hide=javascript,css,html,makefile,markdown">
@@ -30,4 +30,4 @@
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/?username=dragoncoder047&hide_title=true&show_icons=true&include_all_commits=true&hide_rank=true">
 </picture>
 
-*Note: I excluded Javascript from the above language stats because its verbosity (curly braces, JSDoc comments, etc.) compared to other languages artificially inflates the amount of Javascript I seem to have written. Only about 60% of those lines are meaningful code.*
+*Note: I excluded Javascript from the above language stats because its verbosity (curly braces, JSDoc comments, etc.) compared to other languages artificially inflates the amount of Javascript I seem to have written. Only about 60% of those lines are meaningful code.* -->
