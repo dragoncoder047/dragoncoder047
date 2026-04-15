@@ -4,10 +4,11 @@
 * I have a [blog](https://dragoncoder047.github.io/blog/?utm_source=githubprofile) that I occasionally write stuff on. ![](https://img.shields.io/github/last-commit/dragoncoder047/blog)
 * I am a member of the [Conwaylife.com forums](https://conwaylife.com/forums) under the username **wirehead**.
 * I have a [YouTube channel](https://youtube.com/@dragoncoder047?si=LeWERFFGmZtFv3U-) -- check that out when you get a chance.
-* **I'm currently working on a platformer game called Aelith (which is not released yet), and as a result I have made dozens of commits to the [KAPLAY](https://v4000.kaplayjs.com/) game engine.** The blog series about the game starts [here](https://dragoncoder047.github.io/blog/2024/boy-have-i-been/), and the source code repository is [here](https://github.com/dragoncoder047/aelith).
+* **I'm currently working on a platformer game called Aelith (which is not released yet), and as a result I have made dozens of commits to the [KAPLAY](https://v4000.kaplayjs.com/) game engine.** The blog series about the game starts [here](https://dragoncoder047.github.io/blog/2024/boy-have-i-been/), and the source code repository is [here](https://github.com/r47onfire/aelith).
 
 #### Some of my projects
 
+* [Backolon](https://github.com/r47onfire/backolon) - A programming language based on pattern-matching and continuations (extremely cursed). Website: https://backolon.js.org/
 * [Lynx](https://github.com/dragoncoder047/lynx) - A browser-based reactive programming toolkit with Scheme-based syntax. [Web editor](https://dragoncoder047.github.io/lynx)
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
 * [Cogni](https://github.com/dragoncoder047/cogni) - An interpreter for the [Cognate](https://cognate-lang.github.io/) programming language that doesn't compile to C first.
