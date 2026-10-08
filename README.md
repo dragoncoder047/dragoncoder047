@@ -8,7 +8,7 @@
 
 #### Some of my projects
 
-* [Backolon](https://github.com/r47onfire/backolon) - A programming language based on pattern-matching and continuations (extremely cursed). Website: https://backolon.js.org/
+* [Backolon](https://github.com/r47onfire/backolon) - A programming language that can extend its own syntax and with first-class continuations (extremely cursed). Website: https://backolon.js.org/
 * [Lynx](https://github.com/dragoncoder047/lynx) - A browser-based reactive programming toolkit with Scheme-based syntax. [Web editor](https://dragoncoder047.github.io/lynx)
 * [Schemascii](https://github.com/dragoncoder047/schemascii) - A Python program to convert ASCII art circuit diagrams into nice SVG schematics.
 * [Cogni](https://github.com/dragoncoder047/cogni) - An interpreter for the [Cognate](https://cognate-lang.github.io/) programming language that doesn't compile to C first.
